@@ -1,0 +1,22 @@
+{
+  "name": "hacker-rank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter7cole/hacker-rank.git"
+  },
+  "author": "Peter Cole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peter7cole/hacker-rank/issues"
+  },
+  "homepage": "https://github.com/peter7cole/hacker-rank#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
