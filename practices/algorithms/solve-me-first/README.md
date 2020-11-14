@@ -1,4 +1,4 @@
-[Home](../../..)
+[Home](../../../.)
 
 # Solve Me First (Basic Addition)
 
