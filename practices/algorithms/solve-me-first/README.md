@@ -1,6 +1,4 @@
-[Home](~/.)
-
-# Solve Me First (Basic Addition)
+# Basic Addition (Solve Me First)
 
 Complete the function solveMeFirst to compute the sum of two integers.
 

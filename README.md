@@ -9,5 +9,6 @@ Collection of my [HackerRank.com](https://www.hackerrank.com/) exercises
 ## Directory
 
 - Algorithms
-  - [Solve Me First](./practices/algorithms/solve-me-first)
+  - [Basic Addition](./practices/algorithms/solve-me-first)
   - [Simple Array Sum](./practices/algorithms/simple-array-sum)
+  - [Compare the Triplets](./practices/algorithms/compare-the-triplets)
