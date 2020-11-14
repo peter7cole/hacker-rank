@@ -1,4 +1,4 @@
-[Home](../../..)
+[Home](../../.)
 
 # Simple Array Sum
 
