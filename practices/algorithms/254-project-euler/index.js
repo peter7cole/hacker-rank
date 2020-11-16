@@ -1,3 +1,6 @@
+// Project Euler #254: Sums of Digit Factorials
+// https://www.hackerrank.com/contests/projecteuler/challenges/euler254/problem
+
 function processData(input) {
   const factorialize = (num) => {
     if (num <= 0) {
