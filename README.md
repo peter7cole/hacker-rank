@@ -13,6 +13,7 @@ Collection of my [HackerRank.com](https://www.hackerrank.com/) exercises
   - [Basic Addition](./practices/algorithms/solve-me-first)
   - [Simple Array Sum](./practices/algorithms/simple-array-sum)
   - [Compare the Triplets](./practices/algorithms/compare-the-triplets)
+  - [A Very Big Sum](./practices/algorithms/a-very-big-sum)
 
 - Contests
   - [Project Euler #235: An Arithmetic Geometric Sequence](./contests/235-project-euler)
